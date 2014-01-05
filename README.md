@@ -7,29 +7,30 @@
 
 ## プロジェクトの目的
 チュートリアルは「研究室のノウハウや技能などの資産の蓄積」と「後輩教育」の２つを達成する優れたフォーマットである。
-ただ現在の枠組みではカバーする範囲が限られてるため、新たな章を設けることでさらに幅広い範囲で研究室の資産を蓄積する。			
-======
-
-## このGitHubのWiki機能について
-
-markdownというマークアップ言語
-MediaWiki(Wikipedia等）で使われているWikitextに近い
-GitHubで使われているmarkdownの方言はGFM（GitHub Flavored Markdown)
-HTMLタグも使える.
-
-http://ja.wikipedia.org/wiki/Markdown
-https://help.github.com/articles/github-flavored-markdown
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-http://coapp.org/reference/garrett-flavored-markdown.html
-https://gist.github.com/jonschlinkert/5854601
-
+ただ現在の枠組みではカバーする範囲が限られてるため、新たな章を設けることでさらに幅広い範囲で研究室の資産を蓄積する。
 
 ======
 
-## 節（ページ）の構造
+## GitHubのWiki機能について
+
+GitHubのWikiの記述にはMarkdownというマークアップ言語が使われています。MediaWiki(Wikipedia等）で使われているWikitextに近いですが、多少異なります。Markdownには様々な方言があり、GitHubで使われている方言はGFM（GitHub Flavored Markdown)と言います。GFMは非常に単純な言語ですが、より複雑なページをどうしても記述した場合、GFMファイル内でもHTMLタグが使えます。
+
+**参考**
+* http://ja.wikipedia.org/wiki/Markdown
+* https://help.github.com/articles/github-flavored-markdown
+* https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+* http://coapp.org/reference/garrett-flavored-markdown.html
+* https://gist.github.com/jonschlinkert/5854601
+
+
+======
+
+## 節（ページ）の構造・作業の進め方
 
 各節を約2000〜4000時程度に収まるようにしてください。
 また、節末に課題をなるべく設けてください。慣れている人なら30分程度でできる難易度・長さが目安です。
+
+下記の目次にある項目に関しては空のページが作っていあるので、自分が担当するページにアクセスし、右上の「Edit page」ボタンを押せば、ファイルを編集できます。
 
 ======
 
