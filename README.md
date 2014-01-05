@@ -39,7 +39,7 @@ GitHubのWikiの記述にはMarkdownというマークアップ言語が使わ�
 
 チュートリアル | 項目 | 技術要素 
 --- | --- | --- 
-基本編 | UNIX | UNIXコマンド, vimの基礎
+基本編 | [UNIX](UNIX) | UNIXコマンド, vimの基礎
 基本編 | Python | Pythonの基礎
 基本編 | 情報検索・自然言語処理 | 黒い本の内容のまとめ
 基本編 | 形態素解析 | Mecab, TF-IDFの実装
